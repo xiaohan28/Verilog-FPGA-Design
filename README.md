@@ -9,7 +9,7 @@ The project is built on the **Digilent Basys 3 Board** and integrates:
 This project features a **mini-game inspired by Cooking Mama**, where players interact with different baking stages using FPGA-controlled hardware and an OLED screen.  
 The game implements **real-time interactions** and **hardware-driven mini-games**, simulating a baking experience.  
 
-📄 Features and instructions are provided in **User_Guide_Report.pdf** for reference.
+📄 Features and instructions are provided in [User_Guide_Report.pdf](https://github.com/xiaohan28/Verilog-FPGA-Design/blob/main/User_Guide_Report.pdf) for reference.
 
 ## Gameplay Mechanics
 - Ingredient Collection: Move a **mouse-controlled basket** to collect ingredients while avoiding bombs (3 lives system).
@@ -23,9 +23,6 @@ The game implements **real-time interactions** and **hardware-driven mini-games*
 - **OLED screen** for real-time graphical display.
 - Custom input processing with buttons, switches, and mouse integration.
 - **State machine logic** for game control flow.
-
-## Additional Details
-- The [User_Guide_Report.pdf](https://github.com/xiaohan28/Verilog-FPGA-Design/blob/main/User_Guide_Report.pdf) provides a detailed breakdown of **gameplay, FPGA implementation, and hardware interaction**.
 
 ## Structure
 ```bash
