@@ -2,7 +2,6 @@
 An FPGA project to explore digital design concepts, including combinational and sequential circuits, implemented in Verilog.  
 The project is built on the **Digilent Basys 3 Board** and integrates:
 - **Pmod OLEDrgb** (96×64 RGB OLED Display)
-- **Pmod MIC3** (Microphone for audio input processing)
 - **BRAM** (Block RAM for image storage)
 
 ## Project Overview
